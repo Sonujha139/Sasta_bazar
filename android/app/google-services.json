@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105164204168",
+    "project_id": "sasta-bazar-ce121",
+    "storage_bucket": "sasta-bazar-ce121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105164204168:android:5faa5676c4a8057d21173d",
+        "android_client_info": {
+          "package_name": "com.example.sasta_bazar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiBo4piS08Khi_dTsms5so-oRa0bHjtrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
